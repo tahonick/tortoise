@@ -256,4 +256,16 @@ footer img {
         padding-left: 0;
         padding-right: 0;
     }
+
+    .info span {
+        font-size: .77rem;
+    }
+
+    footer {
+        font-size: .77rem;
+    }
+
+    footer img {
+        width: 30%;
+    }
 }
